@@ -1,0 +1,6 @@
+{
+  "name": "luau-propcheck",
+  "tree": {
+    "$path": "src"
+  }
+}

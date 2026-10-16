@@ -1,0 +1,9 @@
+[package]
+name = "yitnez/luau-propcheck"
+description = "Property-based testing for Luau & Roblox: generators, integrated shrinking, seed replay, stateful testing."
+version = "0.1.0"
+license = "MIT"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+include = ["default.project.json", "src", "src/**"]
+exclude = ["**"]
